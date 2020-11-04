@@ -17,6 +17,7 @@ public class Ing_sw_2020_2 {
     public static void main(String[] args) {
         System.out.println("Bienvenidos ");
         System.out.println("Integrando Netbeans y Github");
+        System.out.println("Version modificada desde github online");
     }
     
 }
